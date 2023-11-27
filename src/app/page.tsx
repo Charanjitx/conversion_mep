@@ -22,7 +22,7 @@ const Home = () => {
     }, []);
 
     return(<>
-        <div className="overflow-x-hidden">
+        <div className="overflow-x-hidden overflow: scroll; -webkit-overflow-scrolling: touch;">
             <Navbar/>
             <First/>
             <Projects/>
