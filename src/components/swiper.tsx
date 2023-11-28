@@ -34,6 +34,8 @@ const Carosel = () => {
             <Image
             src = {mosque} alt = "Image not found"
             quality={100}
+            layout="fill"
+            objectFit="cover"
             className="object-cover min-w-full min-h-full"/>
           </SwiperSlide>
           <SwiperSlide>
