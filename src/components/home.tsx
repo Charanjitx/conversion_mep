@@ -4,7 +4,7 @@ import mosque from "../../public/photos/85468867Copy_SHOT 2.jpg"
 import Image from "next/image";
 
 const First = () => {
-    return(<div className="h-[100vh] relative">
+    return(<div className="relative h-screen">
         <Image src={mosque} alt="Sorry" className="object-cover h-full min-w-full"/>
         <div className="absolute top-0 flex w-full h-full bgopq">
             <div className="flex flex-col items-start justify-center text-white md:mt-40 mt-60 sm:basis-7/12" data-aos="fade-bottom">
