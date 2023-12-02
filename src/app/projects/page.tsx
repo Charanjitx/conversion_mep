@@ -15,9 +15,6 @@ const Projects = () => {
             Our architecture company is dedicated to shaping the built environment with innovative designs that inspire At our architecture firm, our mission is to create sustainable and timeless spaces that enhance the quality of life.
             </div>
         </div>
-        <div>
-            <Images src={}/>
-        </div>
-    </div>)
+   </div>)
 }
 export default Projects;
