@@ -1,6 +1,7 @@
 import Marquee from "react-fast-marquee";
 import logo from "../../public/photos/logo.png"
 import logo2 from "../../public/photos/emmar.png"
+
 import Image from "next/image";
 
 const Clients = () => {
