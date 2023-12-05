@@ -1,0 +1,521 @@
+[
+    {
+        "cname" : "M/S. EMAAR PROPERTIES PJSC",
+        "name" : "PARK HORIZON PLOT 14 – PA 18.0014 ",
+        "is_finished" : true,
+        "location" : "DUBAI HILLS ESTATE, DUBAI, UAE",
+        "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
+        "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
+        "images" : [
+            "https://cdn.discordapp.com/attachments/877261679463907368/1176029813455196221/park_horizon.jpg.jpg?ex=656d621d&is=655aed1d&hm=d5b662f33767f28ba865cbba27a5bce2e22e51f85992740c3ebe37c6fe281246&",
+            "https://cdn.discordapp.com/attachments/877261679463907368/1176030234416533524/park_horizon_3.jpg?ex=656d6281&is=655aed81&hm=7eb983b2fadd2adc9f3d85f755e1ed3e06a40902cd38e5335f76284b03f66873&",
+            "https://cdn.discordapp.com/attachments/877261679463907368/1176031238713249882/park_horizon_4.jpg?ex=656d6370&is=655aee70&hm=efffe7d80f68ceecc5e935aa3b16be8b7ddaa034a792f1035a15b9f4a4403332&"
+        ]
+    },
+        {
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "ARABIAN RANCHES III (AR3) COMMUNITY CENTRE,PHASE 2D",
+            "is_finished" : true,
+            "location" : "DUBAI, UAE",
+            "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
+            "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176034067611926528/ar_1.jpeg?ex=656d6613&is=655af113&hm=e179049411c8dfa1f087b947d0096e2df3fa87a6cb833f6fc177636532eecf69&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176034286063865896/ar_2.jpg?ex=656d6647&is=655af147&hm=119da3daceb3a30dcaeb446483d7f696b94c3738e807511430be7e5da8542693&"
+            ]
+        },{
+            "cname" : "NAKHEEL",
+            "name" : "JEBEL ALI VILLAGE - TOWNHOUSE",
+            "is_finished" : true,
+            "location" : "JEBEL ALI FIRST FOR NAKHEEL, ON PLOT-5910297, DUBAI, UAE",
+            "consultant" : "ARCHGROUP",
+            "maincontract" : "M/s. UNITED ENGINEERING CONSTRUCTIONCOMPANY LLC.",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176036578318094396/jav_1.jpg?ex=656d6869&is=655af369&hm=cc04e4d38ff1fbf09d2c74176f17bcebd5ae7b751e3333f8e3220c46f6949ab7&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176036729887666228/jav_2.jpg?ex=656d688e&is=655af38e&hm=b740b9ea1d6fc1e30f2cdbc9cadf5c96ef4c27ecd44b0ec58a7e5835bfbb8b25&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176036902961414245/jav_3.jpg?ex=656d68b7&is=655af3b7&hm=e37fea202f62e68f411db053d717853ea6eb3d68a0dda41b229a4d47b8e8ef4c&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "GRAND BLEU TOWER",
+            "is_finished" : true,
+            "location" : "MARSA DUBAI, UAE",
+            "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
+            "maincontract" : "ENGINEERING CONTRACTING COMPANY LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176038714728792104/gbt_1.jpg?ex=656d6a67&is=655af567&hm=4c03a49ab8fc50819429ceef5c035e88a81e0602a1b7cb160de00fce017f1e3e&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176038849055559681/gbt_2.jpg?ex=656d6a87&is=655af587&hm=21a1606f4632152f1c3bb1a18983a175f2bff76f246e80abf2faf4fcdf0d68e4&"
+            ]
+        },{
+            "cname" : "EMAAR-DUBAI HILLS ESTATE-L.L.C",
+            "name" : "GOLF PLACE-II (128 VILLAS)",
+            "is_finished" : true,
+            "location" : "MBR DUBAI HILLS ESTATE DEVELOPMENT DUBAI, UAE",
+            "consultant" : "ARIF & BINTOAK",
+            "maincontract" : "M/s. TROJAN GENERAL CONTRACTING ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176040702791135232/Golf_1.jpg?ex=656d6c41&is=655af741&hm=927366a2f0b1e01dd0542aa81f8d31ea340e238dfecf62467c89a9639fc20b23&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176040874350751744/golf_2.jpg?ex=656d6c6a&is=655af76a&hm=4b9a8355ad9e90c0b49a3721681cf63f711947f95f0f97d2104f57c6cac6eb1f&"
+            ]
+        },{
+            "cname" : " MERAAS",
+            "name" : ": SUR LA MER TOWN HOUSES (147 VILLAS)",
+            "is_finished" : true,
+            "location" : " AT LA MER NORTH, JUMEIRAH FIRST, DUBAI, UAE",
+            "consultant" : " ARIF & BINTOAK",
+            "maincontract" : " EASTERN INTERNATIONAL LLC",
+            "images" : [
+            ]
+        },{
+            "cname" : "MERAAS",
+            "name" : "PROPOSED RESIDENTIAL BUILDING (B+G+9FLR+RF)",
+            "is_finished" : true,
+            "location" : "CITY WALK PHASE 5 ON PLOT NO 3439519 DUBAI, UAE.",
+            "consultant" : "M/s ARIF & BINTOAK ",
+            "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176045323110596628/cwa_1.webp?ex=656d708e&is=655afb8e&hm=ff30986f6c69e00f531701de411b6ffb078ea747dd678de1929cbc1510eba3e3&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176045465960189962/cwa_2.jpg?ex=656d70b0&is=655afbb0&hm=f41110533a8c5db74f1d069df59d706219d6ae59787b7ebbfd5747323575432d&"
+            ]
+        },{
+            "cname" : "MOHAMMED BIN RASHID AL MAKTOUM CITY",
+            "name" : "PROPOSED SEMI-DETACHED VILLAS (38 Nos)- R",
+            "is_finished" : true,
+            "location" : " MOHAMMED BIN RASHID CITY DISTRICT ONE PHASE 3A.1, DUBAI, U.A.E ",
+            "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
+            "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176052321218744320/c3.jpg?ex=656d7713&is=655b0213&hm=4a90301b6c787b1efd7a8e7a6d761f05e3d862aeb5cf0ba6473d0e1a10bbcd43&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176052476873539604/c3_2.jpg?ex=656d7738&is=655b0238&hm=5ee7b7296f7a6ab81756aed0552599f6f7532d916889f38b7d85480282e7cc17&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176052613440086026/c3_3.jpg?ex=656d7759&is=655b0259&hm=f179083812b60230f3552c772a1069bd7830f1cf6b88e28f62882902862958d0&"
+            ]
+        },{
+            "cname" : "DAMAC ",
+            "name" : "AYKON CITY (3B+G+11P+49+R+TR) MIXED USE DEVELOPMENT",
+            "is_finished" : true,
+            "location" : "PLOT NO. 3460164, BUSINESS BAY,DUBAI, UAE",
+            "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
+            "maincontract" : "CHINA STATE CONSTRUCTION ENGINEERING CORPORATION ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176056124043169903/ac_1.jpg?ex=656d7a9e&is=655b059e&hm=4c03fc477abc1151e27166996085a7f09a338ac11c15fd620863bc6707e8c526&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176056234193985637/ac_2.jpg?ex=656d7ab8&is=655b05b8&hm=3b3fc6de9855ffc9f799f1d060f6c37cb89325d95d2cda771306153335ac5a6c&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "PARK RIDGE TOWER – A (2B+G+10) & B (2B+G+13),C(2b+g+22) & 6 TOWNHOUSE COMMERCIAL",
+            "is_finished" : true,
+            "location" : "HADAEQ SHEIKH MOHAMMED BIN RASHID PLOT NO. 6316283 -DUBAI, UAE",
+            "consultant" : "U+A ARCHITECTS",
+            "maincontract" : "ENGINEERING CONTRACTING CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176057318845198356/PR_1.jpg?ex=656d7bba&is=655b06ba&hm=fc4cec8bf422709a576969c91d24871fa0fdf22ca71eb4a0a504db9c3e9a6448&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176057327972007976/pr_2.jpg?ex=656d7bbd&is=655b06bd&hm=3fe57b6d4a90675662320255d35adc0d95cfaed00c4b7bb253b72d4a63496388&"
+            ]
+        },{
+            "cname" : " DUBAI PROPERTIES ",
+            "name" : "VILLA NOVA – (AMARANTA – 3",
+            "is_finished" : true,
+            "location" : "DUBAILAND,DUBAI",
+            "consultant" : "ARIF & BINTOAK",
+            "maincontract" : "PARKWAY INTERNATIONAL CONTRACTING LC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176061017025937408/villa_1.jpg?ex=656d7f2c&is=655b0a2c&hm=16c1e3d2a97ea346f496d364ad24db98e3e9a5cf13b8c3d6de38ca14cef640f3&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176061053474443274/Villa_2.jpg?ex=656d7f35&is=655b0a35&hm=b660873a4f688f768a92da07abbc70d7245218e5bd594dcb93b78e30a03e44fe&"
+            ]
+        },{
+            "cname" : "MAJID AL FUTTAIM",
+            "name" : "AL ZAHIA (RESIDENTIAL 204 VILLAS PHASE A & PHASE B) DEVELOPMENT",
+            "is_finished" : true,
+            "location" : "“AL YASMEEN” , SHARJAH , UAE",
+            "consultant" : "ENGINEERING CONSULTANTS GROUP",
+            "maincontract" : "UNITED ENGINEERING CONSTRUCTION COMPANY LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176062375397437461/AZ_1.jpg?ex=656d8070&is=655b0b70&hm=0b21c7d464f3070c27f21db5f8b4a2897ed56acc5b05115db349c941c7d72997&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176062772048580648/az_2.jpg?ex=656d80cf&is=655b0bcf&hm=703ebab866cbab0fa7aa02e06e96191c41c7c71cc11ea57955ca16c4486c3bbf&"
+            ]
+        },{
+            "cname" : "DUBAI HEALTH AUTHORITY",
+            "name" : "AL QUSAIS NEW HEALTH CENTER PJ-0052",
+            "is_finished" : true,
+            "location" : "DUBAI, UAE",
+            "consultant" : " HDP (HEATHCARE DESIGNERS AND PROJECT MANAGERS)",
+            "maincontract" : "PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176070480873144360/HEALTH.jpg?ex=656d87fc&is=655b12fc&hm=98a50ea2be6d406659cf9a7129aff30ac2e250fa3f41cfebed8caaa7a523eb18&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176070592194162688/HEALTH_2.jpg?ex=656d8817&is=655b1317&hm=8709283566776eae1538551eb16feae493601f862aa4f898d244087fef8591c6&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "GOLF GROVE TOWNHOUSES (166 Nos)",
+            "is_finished" : true,
+            "location" : " MOHAMMAD BIN RASHID CITY DUBAI HILLS ESTATE",
+            "consultant" : "U+A ARCHITECTS",
+            "maincontract" : "s PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176072130249637898/ggth_3.jpg?ex=656d8986&is=655b1486&hm=c573133df2aa207c9ba627930f8e4433d3781a0427fd6a10171de3c90f561b07&0",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176072130648080394/ggth_1.jpg?ex=656d8986&is=655b1486&hm=10174f6c0f9b3f2960dd0781dee17009ef166d7fa33270ccd5a3a2ffb95f7247&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176072130878775326/ggth_2.jpg?ex=656d8986&is=655b1486&hm=d946a6eb1a96ec4cefaebaa352ad116cd27f64e37001fd9497e38fad8d8315bf&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "GOLF SUITES",
+            "is_finished" : true,
+            "location" : "DUBAI HILLS (PLOT 7.0004) DUBAI - U.A.E.",
+            "consultant" : "KHATIB & ALAMI ",
+            "maincontract" : "s PARKWAY INTERNATIONAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176073102237638696/golfsuite_1.jpg?ex=656d8a6d&is=655b156d&hm=433f5859311589c6269a8cbb6a57ff7e0dfe2b558d2f3a4c3f1fa92c6b658331&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176073810718511114/Golf_Suites_2.jpg?ex=656d8b16&is=655b1616&hm=28e23f753aab5d9ac1446dacdb128db9ef2ce5d36cf362356b6669f2d8722908&"
+            ]
+        },{
+            "cname" : "NSHAMA PROPERTIES LLC.",
+            "name" : "TOWN SQUARE DEVELOPMENT, B + G + P + (14, 8, 12, 6) + ROOF PROPOSED MIXED USE APARTMENTS BUILDINGS",
+            "is_finished" : true,
+            "location" : " PLOT NO 32 & 33, AL QUDRA ROAD, DUBAI",
+            "consultant" : "AWAJ (AL WASL AL JADEED)",
+            "maincontract" : "ENGINEERING CONTRACTING CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176076052494299186/ts_1.jpg?ex=656d8d2d&is=655b182d&hm=f94b02fab911c5246c57245ce3f5dafc1cd049cb00cf2ddf14c2f2792cf2805c&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176076052762726470/ts_2.jpg?ex=656d8d2d&is=655b182d&hm=914b7552a756a6a80fcf6170a003b48fd85a32a229394abef76da3653cd8e756&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176076053022777434/ts_3.jpg?ex=656d8d2d&is=655b182d&hm=7baaa1f1651327046660a1f08c8561a8f0e0b85bde7896248b8ffbad64bc393a&"
+            ]
+        }, {
+            "cname" : "DAMAC - FRONT LINE INVESTMENT MANAGEMENT CO.",
+            "name" : "VIRDIS (G+14) 4 BUILDINGS",
+            "is_finished" : true,
+            "location" : "AKOYA OXYGEN' NO. 9168860, AL YUFRA 2, DUBAI, UAE",
+            "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
+            "maincontract" : "GHANTOOT GULF CONTRACTING",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176077759089492088/virids_1.jpg?ex=656d8ec4&is=655b19c4&hm=c22b8262c5b9b23d67461fd4ef3e26c16e05f2ec8a1996083aa83de7967cbe10&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176077784259506207/virids_2.jpg?ex=656d8eca&is=655b19ca&hm=e9c0a0eabccbeed14615a5a9b95b068c2c6995bde6a921e2dc4cb0d449fbb1cb&"
+            ]
+        }
+        ,{
+            "cname" : "NAKHEEL PJSC",
+            "name" : "AVANI HOTEL (G+2P+1F+15FLOOR+ROOF)",
+            "is_finished" : true,
+            "location" : "IBN BAGTUTA MALL , DUBAI , UAE ",
+            "consultant" : " DAR AL-HANDASAH",
+            "maincontract" : "PARKWAY INTERNATIONAL CONSTRUCTION COMPANY L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176078809490006047/AVANI_1.jpg?ex=656d8fbe&is=655b1abe&hm=7bfc7b8c1668e99fb393c6b6b2945ee3df362156de2ffc5ad4125c2199a54954&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176078829572333598/AVANI_2.jpg?ex=656d8fc3&is=655b1ac3&hm=07a72176a4e8d7cd643759fac18ac5d1ca242eb7657e57b8716bbf794af00c01&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176078981527765082/AVANI_3.jpg?ex=656d8fe7&is=655b1ae7&hm=1a0ce47bc17edf2c396d356ccde1187e224089ac9e75700f49bca9b82c736368&"
+            ]
+        },{
+            "cname" : "NAKHEEL DEIRA",
+            "name" : "CENTARA RESORT (600 Rooms)",
+            "is_finished" : true,
+            "location" : "DEIRA ISLAND, DUBAI, UAE",
+            "consultant" : "DAR AL HANDASAH",
+            "maincontract" : "PARKWAY INTERNATIONAL CONSTRUCTION COMPANY L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176080370928713729/CM_1.jpg?ex=656d9132&is=655b1c32&hm=dde3570019a7727c27da3bc8cb7354fe0b222019fbbf00dd4552018947466720&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176080475283009536/CM_2.jpg?ex=656d914b&is=655b1c4b&hm=18bdfcd3c4b49eb4e8c98a26dec368c181fed0cfd9f0bade182e35d78fd3f168&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176080549136322570/CM_3.jpg?ex=656d915d&is=655b1c5d&hm=05f9c76c724db2529c4377b46048b0e625f706c6dd4b94b50c1fb50358252b03&"
+            ]
+        },{
+            "cname" : "DAMAC - FRONT LINE INVESTMENT MANAGEMENT CO.",
+            "name" : "G+1 COMMUNITY RECREACTION & LEISURE FACILITY ",
+            "is_finished" : true,
+            "location" : "AKOUA OXYGEN DEVELOPMENT AL YUFRAH2, DUBAI, UAE",
+            "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
+            "maincontract" : "ZAHRAT AL SAFA CONTRACTING LL",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176082295430598656/AOC_1.jpg?ex=656d92fd&is=655b1dfd&hm=8d643de4007965052d8898c282b8dc05539c7f57700a47fb0bd4fd7204052aed&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176082331849719838/AOC_2.jpg?ex=656d9306&is=655b1e06&hm=4ad9e309ef80a1532753aa8584325ef71ee7484bdf891424a407af9c852c1412&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176082411918991380/AOC_3.jpg?ex=656d9319&is=655b1e19&hm=028491c9edba4036c0043c3f34ffa610282d09679d124f515a5133b67df71cf5&"
+            ]
+        },{
+            "cname" : "DAMAC ",
+            "name" : "THE TRUMP ESTATES(24 VILLAS AT DAMAC HILLS)",
+            "is_finished" : true,
+            "location" : "AL HEBIAH THIRD, DUBAILAND(MUDON), DUBAI, UAE",
+            "consultant" : "ENGINEERING CONSORTIUM CONSULTING ENGINEERS ",
+            "maincontract" : "AL QANDEEL CONTRACTING CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176083719140946050/ts_1.jpg?ex=656d9451&is=655b1f51&hm=7d1a95f9e69aaefcb4091e696a5d9efbefe596811ce827a8ca43ced29e05b06d&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176083754968678450/ts_2.jpg?ex=656d9459&is=655b1f59&hm=8d17e50304dc2f8a7af5890226f81a56fafbb63979beedbddc69ceeba1598fda&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176083867615113267/ts_3.jpg?ex=656d9474&is=655b1f74&hm=a9c88b29453adc1d5cc85205bcedcdd67a65a4375d5ac9b1e3d1b5536ffe7941&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "FAIRWAY VISTAS VILLAS (65 Nos",
+            "is_finished" : true,
+            "location" : "MOHAMMAD BIN RASHID CITY, DUBAI HILL ESTATE, DUBAI, UAE",
+            "consultant" : "WHITE SPACE",
+            "maincontract" : "PARKWAY INTERNATIONAL CONSTRUCTION COMPANY L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176086304967102475/FAIR_1.jpg?ex=656d96b9&is=655b21b9&hm=180f472d0bec2d32b21695fc15cddd967d5f7975ade98cc9dbfcec5a17f94ce5&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176086337040949268/fair_2.jpg?ex=656d96c1&is=655b21c1&hm=e3ea42af8ba6b1c6d8bda6a51faf016634e2b57fa0935313317e662911f779f7&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176086447615381624/fair_3.jpg?ex=656d96db&is=655b21db&hm=3ba486bafff562fe595eaba4460adc1e7df114a1d88ea067071722ce4432028a&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "GOLF CLUB HOUSE ON PLOT NO. PA-07",
+            "is_finished" : true,
+            "location" : "MOHAMMED BIN RASHID CITY, DUBAI HILLS ESTATE, DUBAI",
+            "consultant" : "AL GURG CONSULTANTS",
+            "maincontract" : "PARKWAY INTERNATIONAL CONSTRUCTION COMPANY L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176088773101101066/dheg_1.jpg?ex=656d9906&is=655b2406&hm=9b33b1e27731f24c9e766574efc22e32e73309b1db80e9dadeae5e08b085c08a&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176088849139630100/dheg_2.jpg?ex=656d9918&is=655b2418&hm=fa7d9f14c594cee7c33a55b0169bfd0bb4c8a26bdff22d3007e88aa999de000b&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176088920233091142/dheg_3.jpg?ex=656d9929&is=655b2429&hm=21f6ea4d817e5db9096ac9ae300211944bdc41e6d1f05964504918d70176556c&"
+            ]
+        },{
+            "cname" : ". NSHMI ",
+            "name" : "TOWN SQUARE DEVELOPMENT, PHASE 1 - CONSTRUCTION OF HAYAT BOULEVARD (G+P+8) BUILDINGS",
+            "is_finished" : true,
+            "location" : "T QUDRA ROAD - DUBAI",
+            "consultant" : " STUDIO INTERNATIONAL ENGINEERING CONSULTANTS",
+            "maincontract" : "UNITED ENGINEERING CONST (UNEC) L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176090384250703872/towns_2.jpg?ex=656d9a86&is=655b2586&hm=4af85207c3de13f3724fb35404f8faea13209599d375518df9cf75174002b538&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176090475913023528/towns_3.jpg?ex=656d9a9c&is=655b259c&hm=d0f0793a7f6555789ac1f42cdb9a9d226d9e1241e67ba5cfca0f75881b958111&"
+            ]
+        },{
+            "cname" : "DAMAC ",
+            "name" : "GHALIA TOWER (G+38+ROOF)",
+            "is_finished" : true,
+            "location" : "JUMEIRAH VILLAGE, DUBA",
+            "consultant" : "ENGINEERING CONSORTIUM CONSULTING ENGINEERS ",
+            "maincontract" : "REEM CAPITAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176093022027513967/ghalia_1.jpg?ex=656d9cfb&is=655b27fb&hm=445a247c475f6efee19381054d9773827625044e167795bbf36b26151a5badd8&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176093093733339237/ghalia_2.jpg?ex=656d9d0c&is=655b280c&hm=398a18c5380353e4fdc480254cc527688d55fce01a0c37da608e0c2a06cad605&"
+            ]
+        },{
+            "cname" : "s Al Habtoor Group LLC",
+            "name" : "108 SEMI-DETACHED VILLAS FOR AL HABTOOR POLO CLUB",
+            "is_finished" : true,
+            "location" : "DUBAILAND AT WADI AL SAFA 5, DUBAI, UAE",
+            "consultant" : "ATK Engineering Consultants",
+            "maincontract" : "PARKWAY INTERNATIONAL CONTRACTING ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176425291330101348/ahpr_1.jpg?ex=656ed26e&is=655c5d6e&hm=1a1d7df72668934eb5687e38dd2a1c668c47629a2c88fb629405108ad10cca01&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176425380505206834/ahpr_2.jpg?ex=656ed283&is=655c5d83&hm=24f91ba92494c871c4794abe4b1aac2f49b3454e0b7a1be42778878e448444b3&"
+            ]
+        },{
+            "cname" : "DAMAC ",
+            "name" : "STOREY TWIN TOWERS,COMMERICAL & HOTEL APT.PRIVE (1B+G+3P+32)",
+            "is_finished" : true,
+            "location" : "BUSINESS BAY, DUBAI, UAE",
+            "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
+            "maincontract" : "SEIDCO GENERAL CONTRACTING LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176427675729010688/maison_1.jpg?ex=656ed4a6&is=655c5fa6&hm=13eb6b73325aa8a83c194a86be80aca88991a284042fc7dd34c397e72831b978&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176427350037114880/maison_2.jpg?ex=656ed459&is=655c5f59&hm=09a156d113f02e68a2f918d2ed3b01e39563a786697f8e539abc5a533d389d07&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176428124221747261/MAISON_3.jpg?ex=656ed511&is=655c6011&hm=afa1f10e088cf066417115a56d46a3367321329dbac78ac347f6fb145e93c8bd&"
+            ]
+        },{
+            "cname" : "NSHMI",
+            "name" : "ZAHRA BREEZE",
+            "is_finished" : true,
+            "location" : "AL QUDRA ROAD, DUBAI",
+            "consultant" : "STUDIO INTERNATIONAL",
+            "maincontract" : "UNITED ENGINEERING CONST. LLC (UNEC)",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176430929208676442/zb_1.jpg?ex=656ed7ae&is=655c62ae&hm=fc6f154a75d24bfbdb7d33f39615010cc46b01643cb57f985797b1a27bd07dbf&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176430940952731648/zb_2.jpg?ex=656ed7b1&is=655c62b1&hm=169d9327e2fe41d00f112ac7bb54b098ca65c412da75ad0bb95d51a0c656b445&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176430951795015710/zb_3.jpg?ex=656ed7b3&is=655c62b3&hm=46f98bef07e4de57254cc64f20c5d0cfc738b79cc684d3d7c55cf525e1f5fcf7&"
+            ]
+        },{
+            "cname" : "MOHAMMED BIN RASHID ",
+            "name" : "CONSTRUCTION OF 346 NOS VILLAS HOUSE",
+            "is_finished" : true,
+            "location" : "MAKAN, HATTA, DUBAI",
+            "consultant" : "JOUZY CONSULTANT ENGINEER ",
+            "maincontract" : "UNITED ENGINEERING CONST. LLC (UNEC)",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176432118298062888/md_2.jpg?ex=656ed8ca&is=655c63ca&hm=1cc1215fc20503ef41994ddc050c82eaa4ab1190c5ffba616ea2f00674ee927a&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176432109091557428/md_1.jpg?ex=656ed8c7&is=655c63c7&hm=ededd0f1594476106acdb00f2c197b2dc6ac0f1962dbc56f18bacd86c2d9c8c7&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "AL FURJAN NEIGHBORHOOD RETAIL CENTER",
+            "is_finished" : true,
+            "location" : "DUBAI, UAE",
+            "consultant" : " ARIF & BINTOA",
+            "maincontract" : "METAC Gen. Contracting Co. WLL",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176434441917321257/afp_1.jpg?ex=656edaf4&is=655c65f4&hm=95e7fdb39e3de64e2c690f6b954d0375daca308521a405129c65e0bfb9f8f95f&"
+            ]
+        },{
+            "cname" : "DAMAC ",
+            "name" : "TENORA SERVICED HOTEL APARTMENTS",
+            "is_finished" : true,
+            "location" : "DUBAI WORLD CENTRAL, DUBAI, U.A.E.",
+            "consultant" : "SHANKLAND COX – DUBAI",
+            "maincontract" : "Delta Al Emarate Building Contracting L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176435749470617610/tenora.jpg?ex=656edc2b&is=655c672b&hm=5184698e802252a7abf1e63efcd7f1b993467a2c2f47e19911ba9e5dee2a86a4&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176435756647075870/tenora_2.jpeg?ex=656edc2d&is=655c672d&hm=17bf6ee49de84c8cc4fed4be0dd837c340fbe04892de40f481209a0609f9958b&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "PROPOSED (G+2+13+R) STAR HOTEL BLDG. ON PLOT NO. IBS002 IBN BATUTA MALL",
+            "is_finished" : true,
+            "location" : "JABEL ALI FIRST DUBAI - UAE",
+            "consultant" : "ARCHGROUP",
+            "maincontract" : "UNITED ENGINEERING CONST. LLC (UNEC)",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176438088290021438/ibnhot_2.jpg?ex=656ede59&is=655c6959&hm=8eef48763a38c70fcdd4525f5db79762a85aa631e1a582fc60b0fcc315f9c422&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176438181663621150/ibnhot_1.jpg?ex=656ede6f&is=655c696f&hm=e9babc4f728fb9e65b84f80c803d4b2ebd2ad750329ad408e8c44fec4c9beae5&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "152 VILLAS & TERRACE HOMES FOR PACKAGE 6,",
+            "is_finished" : true,
+            "location" : "AL FURJAN - DUBAI",
+            "consultant" : "SHADID ENGINEERING CONSULTANT",
+            "maincontract" : "UNITED ENGINEERING CONST. LLC (UNEC)",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176439581743255573/alfvilla_1.jpg?ex=656edfbd&is=655c6abd&hm=0d33ebb352fe9c2d58395f5cd0c9ffbd26512c274c2b027d6e8fd37eef1d3288&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176439597564170300/alfvilla_2.jpg?ex=656edfc1&is=655c6ac1&hm=d2785f3023a97f761fd74597623c6706f1405cd8a8e2ab1c2602d408e7e7d2a1&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176439607919902730/alfvilla_3.jpg?ex=656edfc3&is=655c6ac3&hm=93422a50092c4e18a60a37fb708d720f397b845c4793cf95d035de123acf3b78&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC.",
+            "name" : "IBN BATTUTA SHOPPING MALL EXPANSION",
+            "is_finished" : true,
+            "location" : "PLOT NO. 1BS 001-B, JEBEL ALI FIRST 591, DUBAI, UAE",
+            "consultant" : " AL GURG CONSULTANTS",
+            "maincontract" : "PARKWAY INTERNATIONAL CONTRACTING CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176789278412509194/ibumall_1.jpg?ex=6570256b&is=655db06b&hm=55fa83fc14d8c5733d04d55c00a43962e2574b9efe96dc5b544144b04e19cb4a&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176789287858094080/ibumall_2.jpg?ex=6570256d&is=655db06d&hm=9123d6aeaf95be1a0519c68cacc01029ba6a82cd2b01faca9d8478acc513cec2&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "247 VILLAS AT JUMEIRAH PARK",
+            "is_finished" : true,
+            "location" : "JUMEIRAH, DUBAI",
+            "consultant" : "DAR AL-HANDASAH (SHAIR & PARTNERS)",
+            "maincontract" : "S.S. Lootah ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176790256247382036/villajuma_3.jpg?ex=65702654&is=655db154&hm=22370b6a960ef480e150b3049b938b1673d5c63ccc18dc7b83852180b52c182e&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176790240892043325/villajuma_2.jpg?ex=65702651&is=655db151&hm=96c9419392b73b63465b2e102b26a7d064d655168b61d400683bf0939cbfc5fd&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176790628772892672/vilajuma_1.jpg?ex=657026ad&is=655db1ad&hm=4347fee1a1c8f562424450ea0d2f764b43a2907497422d3a23af5f76929a5374&"
+            ]
+        },{
+            "cname" : "M/S. EMAAR PROPERTIES PJSC",
+            "name" : "2B+G+9 (4 STAR) HOTEL AT MARINA",
+            "is_finished" : true,
+            "location" : "DUBAI",
+            "consultant" : "CITICONSULT",
+            "maincontract" : "Al Salehi Contracting CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176792093646143589/hotelmarina_1.jpg?ex=6570280a&is=655db30a&hm=c523a198dd8f58194c28e2eace8b182be349ac5c6c46ad244dda2b889cab1e7b&"
+            ]
+        },{
+            "cname" : "DUBAI PROPERTIES",
+            "name" : "B+G+4 FLOORS, GENERAL ELECTRIC HEAD QUARTER BUILDING ",
+            "is_finished" : true,
+            "location" : " DUBAI INTERNET CITY",
+            "consultant" : " DAR",
+            "maincontract" : "Al Nakhreh Contracting CO. LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176793513459974174/GR_1.jpg?ex=6570295d&is=655db45d&hm=daafed249863412b2fa4ea6fc0c944aa6547f1675f4594636f9d055767491a4a&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176793520292495361/GR_2.jpg?ex=6570295f&is=655db45f&hm=8c71299c11da25b587c3a7a8041c61d141bc9c29f4dc8bc497601d6144d00a27&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "JUMERIAH PARK VILLAS PACKAGE 5A, 5A-2",
+            "is_finished" : true,
+            "location" : "JUMEIRAH, DUBAI",
+            "consultant" : "DAR AL HANDSAH",
+            "maincontract" : "Al Shafar Transport & Contracting Co.",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176795174228197397/jpv_1.jpg?ex=65702ae9&is=655db5e9&hm=2d1f22e447de2f101800b0a2437a79af188efe4591393d7839f3f9ccd7059865&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176795183623438377/jpv_2.jpg?ex=65702aeb&is=655db5eb&hm=bea12a8d2b5ff23728f08165246fda2380bc6e51af4ea7d20c7fdb93692c4b76&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176795199360483378/jpv_3.jpeg?ex=65702aef&is=655db5ef&hm=e3e667b86f322221b500cb7b79c737deec6b5045390224a92d3cfe15de3c5df7&"
+            ]
+        },{
+            "cname" : "DUBAI WORLD TRADE CENTER",
+            "name" : "SHEIKH RASHID TOWER, CAR PARK PACKAGE NO.CP02 ",
+            "is_finished" : true,
+            "location" : "DUBAI WORLD TRADE CENTER, UAE",
+            "consultant" : "PARSONS OVERSEAS LIMITED",
+            "maincontract" : "Amana Steel Building Contracting Co.",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176796965959385159/psrkin_2.jpg?ex=65702c94&is=655db794&hm=085d96c28d0bcd228b54f7f9bf0114792d6117d7bd5b2f81f88b7d80af5c3af1&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176796965678350426/parkin_1.jpg?ex=65702c94&is=655db794&hm=0b30d7ea8e644ea0405f91103e83a8a3fbb82a0729c9ac110b64bc6664f68017&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176812760860987462/parking_3.jpg?ex=65703b4a&is=655dc64a&hm=7e42f36bf89f24e0b9ef34fa5a74a9442f787e7c1331b29f2e23fd496ace0a5a&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "DUBAI WATERFRONT - BADARH MANARAH",
+            "is_finished" : true,
+            "location" : "PLOT NO 27 AT MANARA",
+            "consultant" : "M ENGINEERING M",
+            "maincontract" : "Design & Built",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176798106386452520/wfmanara_1.jpg?ex=65702da4&is=655db8a4&hm=9fe4ac4d55fecb09b3a72e2fbba623aa2bf99957ab5bb2171347a2658d388a22&"
+            ]
+        },{
+            "cname" : "NAKHEEL CO. LLC",
+            "name" : "NEIGHBORHOOD RETAIL CENTER",
+            "is_finished" : true,
+            "location" : "JUMEIRAH PARK, DUBAI, UAE",
+            "consultant" : "ARIF & BINTOAK CONSULTANT ARCHITECTS & ENGINEERS",
+            "maincontract" : "PARKWAY INTERNATIONAL CONSTRUCTION COMPANY ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176798856193785896/nrc_1.jpg?ex=65702e57&is=655db957&hm=3dbe34f44a60789928335884ce97439e5932eba05ea73c70305f14d1e457c037&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176798874229297152/nrc_3.jpg?ex=65702e5b&is=655db95b&hm=5d5e2d07160610bba274afdccac24f4cb59b93608cdd80fa4ef833ff662d7ec3&"
+            ]
+        },{
+            "cname" : "MAJID AL FUTTAIM",
+            "name" : "AL ZAHIA MOSQUE",
+            "is_finished" : true,
+            "location" : "ZAHIA, SHARJAH, UAE",
+            "consultant" : "DSA ARCHITECTS INTERNATIONAL",
+            "maincontract" : "UNITED ENGINEERING CONSTRUCTION LLC",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176804380092158003/mosque.jpg?ex=6570337c&is=655dbe7c&hm=fac27aade739b10c437022a438f91eb30d9f2f15f4abe7156bc83611d2c83f26&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176804398949732494/mosque_2.jpg?ex=65703380&is=655dbe80&hm=6a176217bbef001cb6328fcb5b3c2a06af2d4ace45bd89da49bc2df89433a3fc&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176804408743428116/mosque_3.jpg?ex=65703383&is=655dbe83&hm=2d91e18e51a589e0c870a9347b5b9ed5950e8c2aeb3dc73f0241f5ce26658d84&"
+            ]
+        },{
+            "cname" : "DAMAC CRESCENT PROPERTIES L.L.C",
+            "name" : "AKOYA COURSE COMMUNITY-HOTEL APARTMENT",
+            "is_finished" : true,
+            "location" : "DUBAI, UAE",
+            "consultant" : "INCORPORATED CONSULTANTS ",
+            "maincontract" : " NARESCO CONTRACTING. L.L.C",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176805659686207578/acch_1.jpg?ex=657034ad&is=655dbfad&hm=d85046eb3c34db47392c9b418d4b8b03710765c8d6944d210209a5ec8ce7ab43&",
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176805828125274172/acch_2.jpg?ex=657034d5&is=655dbfd5&hm=188615fa825826675a1f1ce2db170f8a02e632911b424b61e8e7099cdf77b2e1&"
+            ]
+        },{
+            "cname" : "",
+            "name" : "HEALTH CLUB RESIDENTIAL TOWER",
+            "is_finished" : false,
+            "location" : "DUBAI, MARINA",
+            "consultant" : "",
+            "maincontract" : "",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176815645661335572/healthclub.jpg?ex=65703dfa&is=655dc8fa&hm=743cb751b7b2a3ebb804e0abf9e586bbcfb2f7866bbdb7d3b1ce6b90bb663598&"
+            ]
+        },{
+            "cname" : "EMAAR PROPERTIES ",
+            "name" : "FLOORS HOTEL BUILDING ",
+            "is_finished" : false,
+            "location" : "AL MARSA, DUBAI",
+            "consultant" : " ",
+            "maincontract" : "",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176813147194150972/marsahotel_1.jpg?ex=65703ba6&is=655dc6a6&hm=5985d3c72adae778358d7b6bbfa76c9f8ab0642b43e780bff2b8c64eb14b1b43&"
+            ]
+        },{
+            "cname" : "EMIRATES ISLAMIC BANK",
+            "name" : "TWIN TOWERS",
+            "is_finished" : false,
+            "location" : "AL MAMZAR,DUBAI",
+            "consultant" : "NATIONAL ENGINEERING BUREAU",
+            "maincontract" : "Wafra Contracting - WAFCO ",
+            "images" : [
+                "https://cdn.discordapp.com/attachments/877261679463907368/1176816219760906240/twintower_1.jpg?ex=65703e82&is=655dc982&hm=7b62a7d82d3cb89bf6f8db80ae9cccecd8efecaff0657b9573f0d5d8214c7d76&"
+            ]
+        }
+    ]
