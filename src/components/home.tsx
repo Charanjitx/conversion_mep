@@ -1,8 +1,6 @@
-import videoLoop from '../../videos/bgvideo.mp4'
-
 const First = () => {
     return(<div className="relative h-screen">
-        <video autoPlay loop muted playsInline controls={false} src={videoLoop} className="object-cover w-full h-screen"></video>
+        <video autoPlay loop muted playsInline controls={false} src={require('../../videos/bgvideo.mp4')} className="object-cover w-full h-screen"></video>
         <div className="absolute top-0 flex w-full h-full bgopq">
             <div className="flex flex-col items-start justify-center text-white md:mt-40 mt-60 sm:basis-7/12" data-aos="fade-bottom">
                 <div className="pl-10 text-5xl font-bold xl:text-7xl">Creating Visual</div>
