@@ -20,10 +20,4 @@ const nextConfig = {
   },
 }
 const withVideos = require('next-videos')
-module.exports = withVideos({
-  assetPrefix: 'https://youtube.com',
-
-  webpack(config, options) {
-    return config
-  }
-})
+module.exports = withVideos()
