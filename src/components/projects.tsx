@@ -15,6 +15,7 @@ import Image from "next/image";
 import { Button } from "./ui/button"
 import { Root } from '@/lib/types';
 import Link from 'next/link';
+import { url } from '@/lib/url';
 
 
 const Projects = () => {
@@ -70,7 +71,7 @@ const Projects = () => {
             </Swiper>
         </div>
         )})}
-            <Link href="http://localhost:3000/projects"><Button className="p-5 mt-16 text-xl font-semibold text-black bg-white hover:text-white">More</Button></Link>
+            <Link href={`${url}/projects`}><Button className="p-5 mt-16 text-xl font-semibold text-black bg-white hover:text-white">More</Button></Link>
         </div>
     </>)
 }

@@ -75,7 +75,7 @@ const Projects = () => {
                             }
                         </Swiper>
                     </div>
-                    <div className="flex flex-col items-center justify-center w-full text-white basis-5/12">
+                    <div className="flex flex-col items-center justify-center w-full text-white basis-5/12" data-aos="fade-right">
                         <div className="items-center justify-center hidden text-xl font-semibold text-center lg:text-2xl md:flex basis-1/4">{ele.name}</div>
                         <div className="px-5 basis-3/4 md:px-10">
                         <div className='flex justify-end pt-5'>{ele.is_finished ? <Badge variant="secondary">Completed</Badge> :  <Badge variant="destructive">Ongoing</Badge> }</div>

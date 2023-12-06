@@ -29,6 +29,7 @@ const Home = () => {
             <Clients/>
             <Services/>
             <Certifications/>
+            <Contact/>
             <Footer/>
         </div>
      </>)

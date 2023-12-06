@@ -8,6 +8,8 @@ import contract from "../../public/photos/contract.jpg"
 import tech from "../../public/photos/tech.jpg"
 import main from "../../public/photos/main-crp.jpeg"
 
+import { url } from "@/lib/url";
+
 const Services = () => {
 
     return(
@@ -42,7 +44,7 @@ const Services = () => {
                             <div className="text-lg leading-loose basis-1/2">
                             The basic construction programme of MEP services shall follow the Main contractor’s civil construction
                             </div>
-                                <Link href="http://localhost:3000/services/contract-dept">
+                                <Link href={`${url}/services/contract-dept`}>
                                     <Button className="text-white bg-[#f3742f] hover:bg-white hover:text-black mt-3">More</Button>
                                 </Link>
                             </div>
