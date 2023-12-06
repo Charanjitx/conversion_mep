@@ -12,9 +12,11 @@ export async function POST( req : Request ) {
         html : `<div>${name} ${phone} ${mess}</div>`
     }
 
-    transporter.sendMail(mailOptions, (err,info)=>{
-        if (err)
-            console.log(err)
+    await new Promise(( res , rej ) => {
+        transporter.sendMail(mailOptions, (err,info)=>{
+            if (err)
+                console.log(err)
+        })
     })
 
     return NextResponse.json({hello:"world"})
