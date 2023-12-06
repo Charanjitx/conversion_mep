@@ -15,7 +15,7 @@ const Contract = () => {
     }, []);
 
     return(<>
-        <div className="bg-black min-h-[100vh]">
+        <div className="bg-[#111] min-h-[100vh]">
             <Navbar/>
             <div className="pt-20 text-white">
                 <div className="mb-2 text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP CONTRACTING DEPARTMENT</div>

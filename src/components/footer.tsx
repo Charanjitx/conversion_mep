@@ -8,11 +8,10 @@ import logo from "../../public/photos/logo.png"
 
 import Link from 'next/link';
 import Image from 'next/image'; 
-import RememberMe from '@mui/icons-material/RememberMe';
 
 const Footer = () => {
     return(<>
-        <div className="min-h-[30vh] bg-white" id='contact'>
+        <div className="min-h-[30vh] bg-white">
             <div className="flex flex-col h-20 p-10 shrink">
                 <div className='lg:flex'>
                     <div className='flex flex-col items-center justify-center basis-1/3'>

@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Clients = () => {
     return(<>
-        <div className="py-5 bg-white">
+        <div className="py-5 bg-white" id="client">
             <Marquee>
                 <div className="px-5">
                     <Image src={logo} alt="logo" className="w-48 h-auto"/>

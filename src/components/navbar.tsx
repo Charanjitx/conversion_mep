@@ -48,7 +48,7 @@ const Navbar = () => {
             {
                 isOpen && <div className="w-full pt-2 bg-[rgba(0,0,0,0.7)]">
                 <div className="flex flex-col items-center justify-around basis-4/5">
-                    <div className="py-5 text-lg font-medium hover:text-xl transition-all">
+                    <div className="pt-5 text-lg font-medium hover:text-xl transition-all">
                         <Link href={`${url}/#`} onClick={clsOpn}>Home</Link>
                     </div>
                     <div className="py-5 text-lg font-medium hover:text-xl transition-all">
@@ -61,7 +61,7 @@ const Navbar = () => {
                         <Link href={`${url}/#projects`} onClick={clsOpn}>Projects</Link>
                     </div>
                     <div className="text-lg font-medium hover:text-xl transition-all">
-                        <Link href="" onClick={clsOpn}>Clients</Link>
+                        <Link href={`${url}/#client`} onClick={clsOpn}>Clients</Link>
                     </div>
                     <div className="py-5 text-lg font-medium hover:text-xl transition-all">
                         <Link href={`${url}/#contact`} onClick={clsOpn}>Contact us</Link>

@@ -15,9 +15,11 @@ export async function POST( req : Request ) {
     await new Promise(( res , rej ) => {
         transporter.sendMail(mailOptions, (err,info)=>{
             if (err)
-                console.log(err)
+                rej(err)
+            else
+                res(info)
         })
     })
 
-    return NextResponse.json({hello:"world"})
+    return NextResponse.json({status:200})
 }

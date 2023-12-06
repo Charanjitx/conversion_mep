@@ -23,7 +23,9 @@ const Services = () => {
                             <div className="text-lg leading-loose basis-1/2">
                                 We have an in-house Design department equipped with AutoCAD drafting stations, printing & plotting tools.
                             </div>
-                                <Button className="text-white bg-[#f3742f] hover:bg-white hover:text-black mt-3">More</Button>
+                                <Link href={`${url}/services/tech-dept`}>
+                                    <Button className="text-white bg-[#f3742f] hover:bg-white hover:text-black mt-3">More</Button>
+                                </Link>
                             </div>
                     </div>
                     <div className="my-3 md:flex">
@@ -33,7 +35,9 @@ const Services = () => {
                             <div className="text-lg leading-loose basis-1/2">
                                 The type and no. of resources required are established based on activities as per the MEP construction.
                             </div>
-                                <Button className="text-white bg-[#f3742f] hover:bg-white hover:text-black mt-3">More</Button>
+                                <Link href={`${url}/services/main-dept`}>
+                                    <Button className="text-white bg-[#f3742f] hover:bg-white hover:text-black mt-3">More</Button>
+                                </Link>
                             </div>
                         <div className="items-center justify-center hidden md:flex basis-1/2" data-aos="fade-right"><Image src={main} className="w-full p-10" alt="technial department"/></div>
                     </div>
