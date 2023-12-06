@@ -21,11 +21,10 @@ import { url } from '@/lib/url';
 const Projects = () => {
     const links = _links as Root
     return(<>
-        <div className="flex flex-col justify-center items-center bg-[#111111] min-h-[100vh] text-white pt-24 pb-16" id="projects">
-        <div className="text-4xl font-semibold md:text-5xl md:font-bold">OUR PROJECTS</div>
+        <div className="flex flex-col justify-center items-center bg-[#111111] min-h-[100vh] text-white pt-20 pb-16" id="projects">
+        <div className="mb-10 text-4xl font-semibold md:text-5xl md:font-bold">OUR PROJECTS</div>
         { links.map((ele,idx)=>{ return(
         <div className="flex flex-col items-center justify-center" key={idx}>
-            <Image src={ele.logo} alt="Sorry" width={100} height={100} quality={100} className="my-10 sm:w-40"/>
             <Swiper
             effect={'coverflow'}
             grabCursor={true}
@@ -49,7 +48,7 @@ const Projects = () => {
             autoplay = {{
                 delay : 1500,
             }}
-            className="md:h-[60vh] h-[45vh] w-[80vw]"
+            className="md:h-[60vh] h-[60vh] w-[90vw]"
             data-aos="fade-right"
             >
                     {

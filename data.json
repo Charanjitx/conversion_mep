@@ -1,45 +1,8 @@
 [
             {
-            "logo" : "/photos/logo.png",
             "images" : [
                 {
                     "img_url" : "/photos/85468867Copy_SHOT 2.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                },{
-                    "img_url": "/photos/64151263Copy_01.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-
-                },{
-                    "img_url": "/photos/52153477Copy_EMAAR_ElieSaabTower_CGI02_Draft_04-scaled.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                }
-            ]
-            },{
-            "logo" : "/photos/logo.png",
-            "images" : [
-                {
-                    "img_url" : "/photos/85468867Copy_SHOT 2.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                },{
-                    "img_url": "/photos/64151263Copy_01.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-
-                },{
-                    "img_url": "/photos/52153477Copy_EMAAR_ElieSaabTower_CGI02_Draft_04-scaled.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                }
-            ]
-            },{
-            "logo" : "/photos/logo.png",
-            "images" : [
-                {
-                    "img_url": "/photos/85468867Copy_SHOT 2.jpg",
                     "name": "Construction Name",
                     "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
                 },{
