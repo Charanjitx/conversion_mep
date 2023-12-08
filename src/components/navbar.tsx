@@ -18,7 +18,7 @@ const Navbar = () => {
     }
 
     return(
-        <div className="fixed flex flex-wrap justify-around items-center text-white z-10 bg-[rgba(0,0,0,0.7)] w-[100vw] h-20 overflow-hidden">
+        <div className="fixed flex flex-wrap justify-around items-center text-white z-10 bg-[rgba(0,0,0,0.7)] w-[100vw] h-20">
             <div className="flex justify-center basis-1/5">
                 <Link href={`${url}`}><Image src={logo} alt="Logo" className="max-w-xl"/></Link>
             </div>
@@ -46,7 +46,7 @@ const Navbar = () => {
                 <MenuIcon fontSize="large"/>
             </button>
             {
-                isOpen && <div className="w-full pt-2 bg-[rgba(0,0,0,0.7)]">
+                isOpen && <div className="w-full mt-1 bg-[rgba(0,0,0,0.7)]">
                 <div className="flex flex-col items-center justify-around basis-4/5">
                     <div className="pt-5 text-lg font-medium hover:text-xl transition-all">
                         <Link href={`${url}/#`} onClick={clsOpn}>Home</Link>
