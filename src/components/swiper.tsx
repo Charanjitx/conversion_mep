@@ -28,7 +28,7 @@ const Carosel = () => {
           scrollbar={{ draggable: true }}
           spaceBetween={0}
           slidesPerView={1}
-          className="h-[100vh]"
+          className="h-[100vh] overflow-hidden"
         >
           <SwiperSlide>
             <Image

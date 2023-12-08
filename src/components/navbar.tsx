@@ -18,7 +18,7 @@ const Navbar = () => {
     }
 
     return(
-        <div className="fixed flex flex-wrap justify-around items-center text-white z-10 bg-[rgba(0,0,0,0.7)] w-[100vw] h-20">
+        <div className="fixed flex flex-wrap justify-around items-center text-white z-10 bg-[rgba(0,0,0,0.7)] w-[100vw] h-20 overflow-hidden">
             <div className="flex justify-center basis-1/5">
                 <Link href={`${url}`}><Image src={logo} alt="Logo" className="max-w-xl"/></Link>
             </div>

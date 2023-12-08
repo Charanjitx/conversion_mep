@@ -21,7 +21,7 @@ import { url } from '@/lib/url';
 const Projects = () => {
     const links = _links as Root
     return(<>
-        <div className="flex flex-col justify-center items-center bg-[#111111] min-h-[100vh] text-white pt-20 pb-16" id="projects">
+        <div className="flex flex-col justify-center items-center bg-[#111111] min-h-[100vh] text-white pt-20 pb-16 overflow-hidden" id="projects">
         <div className="mb-10 text-4xl font-semibold md:text-5xl md:font-bold">OUR PROJECTS</div>
         { links.map((ele,idx)=>{ return(
         <div className="flex flex-col items-center justify-center" key={idx}>

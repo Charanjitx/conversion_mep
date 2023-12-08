@@ -22,7 +22,7 @@ const Home = () => {
     }, []);
 
     return(<>
-        <div className="overflow-hidden">
+        <div>
             <Navbar/>
             <First/>
             <Projects/>

@@ -6,7 +6,7 @@ import certificate from "../../public/photos/policy3.jpg"
 const Certifications = () => {
 
     return(<>
-        <div className="min-h-[80vh] bg-[#fff] flex-col flex justify-center items-center" id="certifications">
+        <div className="min-h-[80vh] bg-[#fff] flex-col flex justify-center items-center overflow-hidden" id="certifications">
                 <div className="mt-3 mb-8 md:text-4xl text-3xl p-5 font-bold text-[#f3742f] text-center" data-aos="fade-right">CERTIFICATES OF OUR COMPANY</div>
                 <div className="flex flex-wrap items-center justify-evenly" data-aos="fade-left">
                     <div className="flex flex-col items-center justify-center basis 1/3">

@@ -11,7 +11,7 @@ import Image from 'next/image';
 
 const Footer = () => {
     return(<>
-        <div className="min-h-[30vh] bg-white">
+        <div className="mb-3 bg-white">
             <div className="flex flex-col h-20 p-10 shrink">
                 <div className='lg:flex'>
                     <div className='flex flex-col items-center justify-center basis-1/3'>
@@ -40,7 +40,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='my-10 text-center'>
-                    <CopyrightIcon/><b>2023 ConversionMep</b>&nbsp;All Rights Receieved &nbsp;<b>Designed by <RememberMeIcon/> Karadigal Organisation</b>
+                    <CopyrightIcon/><b>2023 ConversionMep</b>&nbsp;All Rights Receieved &nbsp;<b>Designed by <RememberMeIcon/> Jiloo(TBS) Organisation</b>
                 </div>
             </div>
         </div>

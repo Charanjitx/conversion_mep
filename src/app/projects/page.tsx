@@ -38,7 +38,7 @@ const Projects = () => {
 
                 <div className="w-screen my-20 md:flex" key={idx}>
                     <div className="basis-7/12">
-                        <div className="p-3 my-5 text-xl font-semibold text-center text-white md:hidden">{ele.name}</div>
+                        <div className="p-3 my-5 text-xl text-[#f3742f] font-semibold text-center md:hidden">{ele.name}</div>
                         <Swiper
                             effect={'coverflow'}
                             grabCursor={true}
@@ -76,7 +76,7 @@ const Projects = () => {
                         </Swiper>
                     </div>
                     <div className="flex flex-col items-center justify-center w-full text-white basis-5/12" data-aos="fade-right">
-                        <div className="items-center justify-center hidden text-xl font-semibold text-center lg:text-2xl md:flex basis-1/4">{ele.name}</div>
+                        <div className="items-center justify-center hidden text-xl text-[#f3742f] font-semibold text-center lg:text-2xl md:flex basis-1/4">{ele.name}</div>
                         <div className="px-5 basis-3/4 md:px-10">
                         <div className='flex justify-end pt-5'>{ele.is_finished ? <Badge variant="secondary">Completed</Badge> :  <Badge variant="destructive">Ongoing</Badge> }</div>
                             <Table className="mt-10 md:mt-5 text-md md:text-lg">

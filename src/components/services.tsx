@@ -13,7 +13,7 @@ import { url } from "@/lib/url";
 const Services = () => {
 
     return(
-            <div className="min-h-[100vh] flex flex-col bg-[#111111] text-white" id="services">
+            <div className="min-h-[100vh] flex flex-col bg-[#111111] text-white overflow-hidden" id="services">
                 <div className="mt-24 md:text-4xl text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">SERVICES FROM OUR COMPANY</div>
                 <div className="flex flex-col mt-3">
                     <div className="md:flex">

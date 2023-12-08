@@ -1,19 +1,29 @@
 import Marquee from "react-fast-marquee";
-import logo from "../../public/photos/logo.png"
-import logo2 from "../../public/photos/emmar.png"
-
+import data from "./../../clients.json"
 import Image from "next/image";
 
 const Clients = () => {
     return(<>
-        <div className="py-5 bg-white" id="client">
+        <div className="py-5 overflow-hidden bg-white" id="client">
             <Marquee>
-                <div className="px-5">
-                    <Image src={logo} alt="logo" className="w-48 h-auto"/>
-                </div>
-                <div className="px-5">
-                    <Image src={logo2} alt="logo" className="w-48 h-auto"/>
-                </div>
+            { data.map((ele,idx)=>{
+                return(
+                    <div className="px-5" key={idx}>
+                        <Image src={ele} alt="logo" width={85} height={85}/>
+                    </div>
+                )
+            })
+            }
+             </Marquee>
+            <Marquee direction="right" className="mt-5">
+            { data.map((ele,idx)=>{
+                return(
+                    <div className="px-5" key={idx}>
+                        <Image src={ele} alt="logo" width={85} height={85}/>
+                    </div>
+                )
+            })
+            }
              </Marquee>
         </div>
     </>)
