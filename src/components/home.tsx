@@ -2,6 +2,7 @@
 
 const First = () => {
     return(<div className="relative h-screen overflow-hidden">
+        <video src="https://f005.backblazeb2.com/file/conversion-mep/bgvideo.mp4" autoPlay loop muted playsInline className="object-cover h-full min-w-full"></video>
         <div className="absolute top-0 flex w-full h-full bgopq">
             <div className="flex flex-col items-start justify-center text-white md:mt-40 mt-60 sm:basis-7/12" data-aos="fade-bottom">
                 <div className="pl-10 text-5xl font-bold xl:text-7xl">Creating Visual</div>
