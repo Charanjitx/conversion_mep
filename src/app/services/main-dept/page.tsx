@@ -4,7 +4,7 @@ import main from "../../../..//public/photos/main-crp.jpeg"
 
 const Main = () => {
     return(<>
-        <div className="bg-[#111] min-h-[100vh]">
+        <div className="bg-[#111]">
             <Navbar/>
             <div className="pt-20 text-white">
                 <div className="mb-2 text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP MAINTENANCE DEPARTMENT</div>

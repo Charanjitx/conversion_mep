@@ -1,4 +1,5 @@
 "use client"
+import { useSearchParams } from 'next/navigation'
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination, EffectCoverflow, Autoplay } from 'swiper/modules';
@@ -24,16 +25,19 @@ import data from "../../../projects.json"
 import { Badge } from '@/components/ui/badge';
 
 const Projects = () => {
+    const router = useSearchParams() 
+    const status = router.get("status") == "finished" ? true : false;
 
     return(<div className="bg-[#111] min-h-[100vh] overflow-x-hidden">
         <Navbar/>
 
         <div className="flex items-center justify-center flex-col text-white min-h-[30vh] pb-20">
-            <div className="pb-5 mt-24 mb-10 text-5xl text-bold">
+            <div className="pb-5 mt-24 mb-5 text-5xl text-[#f3742f] font-medium">
                 Projects
             </div>
+            { status ? <div className='text-center text-[#f3742f] text-4xl'>Completed Projects</div> : <div className='text-center text-[#f3742f] text-4xl'>Ongoing Projects</div> }
             <div>
-            { data.map((ele,idx)=>{
+            { data.filter((ele)=>ele.is_finished==status).map((ele,idx)=>{
                 return(
 
                 <div className="w-screen my-20 md:flex" key={idx}>

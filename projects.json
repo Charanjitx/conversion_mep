@@ -2,7 +2,7 @@
     {
         "cname" : "M/S. EMAAR PROPERTIES PJSC",
         "name" : "PARK HORIZON PLOT 14 – PA 18.0014 ",
-        "is_finished" : true,
+        "is_finished" : false,
         "location" : "DUBAI HILLS ESTATE, DUBAI, UAE",
         "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
         "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
@@ -15,7 +15,7 @@
         {
             "cname" : "M/S. EMAAR PROPERTIES PJSC",
             "name" : "ARABIAN RANCHES III (AR3) COMMUNITY CENTRE,PHASE 2D",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "DUBAI, UAE",
             "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
             "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
@@ -26,7 +26,7 @@
         },{
             "cname" : "NAKHEEL",
             "name" : "JEBEL ALI VILLAGE - TOWNHOUSE",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "JEBEL ALI FIRST FOR NAKHEEL, ON PLOT-5910297, DUBAI, UAE",
             "consultant" : "ARCHGROUP",
             "maincontract" : "M/s. UNITED ENGINEERING CONSTRUCTIONCOMPANY LLC.",
@@ -38,7 +38,7 @@
         },{
             "cname" : "M/S. EMAAR PROPERTIES PJSC",
             "name" : "GRAND BLEU TOWER",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "MARSA DUBAI, UAE",
             "consultant" : "M/s. MIRAGE LEISURE AND DEVELOPMENT LLC",
             "maincontract" : "ENGINEERING CONTRACTING COMPANY LLC",
@@ -49,7 +49,7 @@
         },{
             "cname" : "EMAAR-DUBAI HILLS ESTATE-L.L.C",
             "name" : "GOLF PLACE-II (128 VILLAS)",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "MBR DUBAI HILLS ESTATE DEVELOPMENT DUBAI, UAE",
             "consultant" : "ARIF & BINTOAK",
             "maincontract" : "M/s. TROJAN GENERAL CONTRACTING ",
@@ -60,7 +60,7 @@
         },{
             "cname" : " MERAAS",
             "name" : ": SUR LA MER TOWN HOUSES (147 VILLAS)",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : " AT LA MER NORTH, JUMEIRAH FIRST, DUBAI, UAE",
             "consultant" : " ARIF & BINTOAK",
             "maincontract" : " EASTERN INTERNATIONAL LLC",
@@ -69,7 +69,7 @@
         },{
             "cname" : "MERAAS",
             "name" : "PROPOSED RESIDENTIAL BUILDING (B+G+9FLR+RF)",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "CITY WALK PHASE 5 ON PLOT NO 3439519 DUBAI, UAE.",
             "consultant" : "M/s ARIF & BINTOAK ",
             "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
@@ -80,7 +80,7 @@
         },{
             "cname" : "MOHAMMED BIN RASHID AL MAKTOUM CITY",
             "name" : "PROPOSED SEMI-DETACHED VILLAS (38 Nos)- R",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : " MOHAMMED BIN RASHID CITY DISTRICT ONE PHASE 3A.1, DUBAI, U.A.E ",
             "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
             "maincontract" : "M/s PARKWAY INTERNATIONAL CONTRACTING LLC",
@@ -92,7 +92,7 @@
         },{
             "cname" : "DAMAC ",
             "name" : "AYKON CITY (3B+G+11P+49+R+TR) MIXED USE DEVELOPMENT",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "PLOT NO. 3460164, BUSINESS BAY,DUBAI, UAE",
             "consultant" : "LACASA ARCHITECTS & ENGINEERING CONSULTANT",
             "maincontract" : "CHINA STATE CONSTRUCTION ENGINEERING CORPORATION ",
@@ -103,7 +103,7 @@
         },{
             "cname" : "M/S. EMAAR PROPERTIES PJSC",
             "name" : "PARK RIDGE TOWER – A (2B+G+10) & B (2B+G+13),C(2b+g+22) & 6 TOWNHOUSE COMMERCIAL",
-            "is_finished" : true,
+            "is_finished" : false,
             "location" : "HADAEQ SHEIKH MOHAMMED BIN RASHID PLOT NO. 6316283 -DUBAI, UAE",
             "consultant" : "U+A ARCHITECTS",
             "maincontract" : "ENGINEERING CONTRACTING CO. LLC",

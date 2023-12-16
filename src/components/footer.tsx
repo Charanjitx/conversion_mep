@@ -2,9 +2,8 @@ import CopyrightIcon from '@mui/icons-material/Copyright';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import YouTubeIcon from '@mui/icons-material/YouTube';
-import RememberMeIcon from '@mui/icons-material/RememberMe';
 
-import logo from "../../public/photos/logo.png"
+import logo from "/public/photos/logo.png"
 
 import Link from 'next/link';
 import Image from 'next/image'; 
@@ -40,7 +39,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='my-10 text-center'>
-                    <CopyrightIcon/><b>2023 ConversionMep</b>&nbsp;All Rights Receieved &nbsp;<b>Designed by <RememberMeIcon/> Jiloo(TBS) Organisation</b>
+                    <CopyrightIcon/><b>2023 ConversionMep</b>&nbsp;All Rights Receieved &nbsp;<b>Designed by Jiloo(TBS) Organisation</b>
                 </div>
             </div>
         </div>

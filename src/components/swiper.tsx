@@ -1,8 +1,8 @@
 "use client"
 
-import mosque from "../../public/photos/85468867Copy_SHOT 2.jpg"
-import scraper1 from "../../public/photos/52153477Copy_EMAAR_ElieSaabTower_CGI02_Draft_04-scaled.jpg"
-import scraper2 from "../../public/photos/64151263Copy_01.jpg"
+import mosque from "/public/photos/85468867Copy_SHOT 2.jpg"
+import scraper1 from "/public/photos/52153477Copy_EMAAR_ElieSaabTower_CGI02_Draft_04-scaled.jpg"
+import scraper2 from "/public/photos/64151263Copy_01.jpg"
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Scrollbar, A11y , Autoplay } from 'swiper/modules';

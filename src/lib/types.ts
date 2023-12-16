@@ -9,3 +9,8 @@ export interface Image {
   name: string
   content: string
 }
+
+export interface obj {
+    lbl : string
+    url : string
+}
