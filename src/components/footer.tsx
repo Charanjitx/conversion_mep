@@ -32,8 +32,8 @@ const Footer = () => {
                         <div className='md:text-xl md:font-semibold'><b>Office Address</b></div>
                         <div className='md:text-lg md:font-medium'>
                         Conversion Electromechanical Co. LLC <br/>
-                        26 26 16c St <br/>
-                        P. O. Box 95767, Dubai, UAE <br/>
+                        Al Serkal Building - Sheikh Rashid Rd<br/>
+                        Al Khabaisi, Dubai, UAE <br/>
                         <b>Phone : </b> 04 295 2727, <b>Fax :</b> 04 295 2726 <br/>
                         </div>
                     </div>
