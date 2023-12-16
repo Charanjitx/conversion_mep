@@ -73,7 +73,7 @@ const About = () => {
                         <div className="flex items-center justify-between sm:justify-around basis-1/2">
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">
                                 20+
-                                <div className="mt-3 text-sm font-medium lg:text-lg">Years of experience</div>
+                                <div className="mt-3 font-medium lg:text-lg">Years of experience</div>
                             </div>
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">
                                 200+
