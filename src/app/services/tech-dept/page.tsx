@@ -7,9 +7,8 @@ const Tech = () => {
         <div className="bg-[#111] min-h-[100vh]">
             <Navbar/>
             <div className="pt-20 text-white">
-                <div className="mb-2 text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP TECHNICAL DEPARTMENT</div>
-
-                <div className="mb-2 text-xl py-3 font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP DESIGN DEPARTMENT</div>
+                <div className="mb-2 md:text-5xl text-4xl py-5 font-bold text-center text-[#f3742f]" data-aos="fade-top">MEP TECHNICAL DEPARTMENT</div>
+                <div className="mb-2 md:text-4xl text-3xl pb-5 px-3 font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP DESIGN DEPARTMENT</div>
                 <div className="lg:flex">
                     <div className="flex items-center justify-center px-3 basis-5/12">
                         <div className="max-w-xl" data-aos="fade-left"><Image src={tech} alt="Contracting dept img" className="w-full lg:m-5"/></div>
@@ -41,7 +40,7 @@ const Tech = () => {
                     </div>
                 </div>
 
-                <div className="mb-2 text-xl py-3 font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP ESTIMATION DEPARTMENT</div>
+                <div className="mb-2 md:text-4xl text-3xl pb-5 px-3 font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP ESTIMATION DEPARTMENT</div>
                 <div className="lg:flex">
                     <div className="flex items-center justify-center px-3 basis-5/12">
                         <div className="max-w-xl" data-aos="fade-left"><Image src={tech} alt="Contracting dept img" className="w-full lg:m-5"/></div>

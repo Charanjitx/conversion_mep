@@ -69,7 +69,7 @@ const Contact = () => {
     return(<>
 
         <div className="bg-[#111] text-white p-5 overflow-hidden" id="contact">
-            <div className="my-8 text-4xl font-bold text-center text-[#ff8731]">CONTACT US</div>
+            <div className="my-8 lg:text-6xl text-5xl py-10 font-bold text-center text-[#ff8731]">CONTACT US</div>
             <div className="lg:flex">
                 <div className="basis-1/2">
                     <div className="text-lg">

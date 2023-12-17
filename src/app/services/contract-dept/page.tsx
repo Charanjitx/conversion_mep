@@ -18,7 +18,7 @@ const Contract = () => {
         <div className="bg-[#111] min-h-[100vh]">
             <Navbar/>
             <div className="pt-20 text-white">
-                <div className="mb-2 text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP CONTRACTING DEPARTMENT</div>
+                <div className="mb-2 md:text-6xl text-4xl font-bold px-3 text-center text-[#f3742f] py-10" data-aos="fade-top">MEP CONTRACTING DEPARTMENT</div>
                 <div className="lg:flex">
                     <div className="flex items-center justify-center basis-5/12">
                         <div className="max-w-xl" data-aos="fade-left"><Image src={contract} alt="Contracting dept img" className="w-full lg:m-5"/></div>

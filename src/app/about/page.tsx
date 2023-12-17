@@ -11,7 +11,7 @@ const About = () => {
     return(<>
         <div className="min-h-screen md:p-10 bg-[#111] md:text-lg text-md">
             <div className="flex items-center justify-center py-5 xl:py-10">
-                <div className="w-11/12 mt-24 md:my-14 md:flex">
+                <div className="w-11/12 mt-24 md:my-14 md:flex" data-aos="fade-left">
                     <div className="flex items-center justify-center text-5xl font-bold sm:text-7xl basis-1/2 lg:text-8xl text-[#ff8731] my-5">
                         About our firm
                     </div>
@@ -29,7 +29,7 @@ const About = () => {
                 <div className="flex items-center pl-10 mt-3 font-medium"> <DrawingPinFilledIcon className="w-6 mr-5"/> More about us</div>
             </div>
             <div className="flex flex-col items-center justify-center">
-                <div className="items-center justify-center w-11/12 text-white xl:flex">
+                <div className="items-center justify-center w-11/12 text-white xl:flex" data-aos="fade-left">
                     <div className="items-center justify-center hidden xl:flex basis-1/2 fade-effect">
                         <div className="flex items-center justify-center w-full"><div className="fade-overlay"></div></div>
                         <Image src={about} className="object-cover min-w-full min-h-full" alt="No Imagee"/>
@@ -46,7 +46,7 @@ const About = () => {
                     </div>
 
                 </div>
-                <div className="items-center justify-center w-11/12 mt-16 text-white xl:flex">
+                <div className="items-center justify-center w-11/12 mt-16 text-white xl:flex" data-aos="fade-left">
                     <div className="flex flex-col items-start justify-center mb-10 basis-1/2 xl:pl-10">
                         <div className="my-5 text-5xl font-semibold md:my-10 lg:text-7xl text-[#ff8731]">How we started</div>
                         <div className="p-3 leading-relaxed lg:leading-loose">
@@ -65,7 +65,7 @@ const About = () => {
                 <div className="flex items-center pl-10 mt-3 font-medium"> <DrawingPinFilledIcon className="w-6 mr-5"/>Stats of our company</div>
             </div>
 
-            <div className="py-10 bg-[#111]">
+            <div className="py-10 bg-[#111]" data-aos="fade-left">
                 <div className="text-5xl font-semibold text-center text-white lg:text-7xl">
                     Our imapct in numbers
                 </div>

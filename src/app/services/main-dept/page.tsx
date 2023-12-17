@@ -7,7 +7,7 @@ const Main = () => {
         <div className="bg-[#111]">
             <Navbar/>
             <div className="pt-20 text-white">
-                <div className="mb-2 text-3xl font-semibold text-center text-[#f3742f]" data-aos="fade-top">MEP MAINTENANCE DEPARTMENT</div>
+                <div className="mb-2 md:text-6xl text-4xl font-bold py-10 text-center text-[#f3742f]" data-aos="fade-top">MEP MAINTENANCE DEPARTMENT</div>
                 <div className="lg:flex">
                     <div className="flex items-center justify-center basis-5/12">
                     <div className="max-w-xl" data-aos="fade-left"><Image src={main} alt="Contracting dept img" className="w-full lg:m-5"/></div>

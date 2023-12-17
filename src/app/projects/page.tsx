@@ -32,17 +32,17 @@ const Projects = () => {
         <Navbar/>
 
         <div className="flex items-center justify-center flex-col text-white min-h-[30vh] pb-20">
-            <div className="pb-5 mt-24 mb-5 text-5xl text-[#f3742f] font-medium">
-                Projects
+            <div className="pb-5 mt-24 mb-5 md:text-7xl text-5xl text-[#ff8731] font-bold">
+                PROJECTS
             </div>
-            { status ? <div className='text-center text-[#f3742f] text-4xl'>Completed Projects</div> : <div className='text-center text-[#f3742f] text-4xl'>Ongoing Projects</div> }
+            { status ? <div className='text-center text-[#ff8731] md:text-4xl text-3xl font-semibold'>COMPLETED PROJECTS</div> : <div className='text-center text-[#ff8731] md:text-4xl text-3xl font-semibold'>ONGOING PROJECTS</div> }
             <div>
             { data.filter((ele)=>ele.is_finished==status).map((ele,idx)=>{
                 return(
 
                 <div className="w-screen my-20 md:flex" key={idx}>
                     <div className="basis-7/12">
-                        <div className="p-3 my-5 text-xl text-[#f3742f] font-semibold text-center md:hidden">{ele.name}</div>
+                        <div className="p-3 my-5 text-xl text-[#ff8731] font-semibold text-center md:hidden">{ele.name}</div>
                         <Swiper
                             effect={'coverflow'}
                             grabCursor={true}
