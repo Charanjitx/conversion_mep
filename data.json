@@ -1,20 +1,23 @@
 [
             {
             "images" : [
-                {
-                    "img_url" : "/photos/85468867Copy_SHOT 2.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                },{
-                    "img_url": "/photos/64151263Copy_01.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-
-                },{
-                    "img_url": "/photos/52153477Copy_EMAAR_ElieSaabTower_CGI02_Draft_04-scaled.jpg",
-                    "name": "Construction Name",
-                    "content": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
-                }
-            ]
+    {
+        "name": "AVANI HOTEL",
+        "content": "Completed the AVANI Hotel project at Ibn Battuta Mall, Dubai, UAE. NAKHEEL PJSC was the client, and Dar Al-Handasah provided consulting. Parkway International Construction Company L.L.C. served as the main contractor, concluding the project successfully.",
+        "img_url" : "https://cdn.discordapp.com/attachments/877261679463907368/1176078809490006047/AVANI_1.jpg?ex=656d8fbe&is=655b1abe&hm=7bfc7b8c1668e99fb393c6b6b2945ee3df362156de2ffc5ad4125c2199a54954&"
+    },{
+        "name": "GHALIA Tower",
+        "content": "Completed the GHALIA Tower project in Jumeirah Village, Dubai. DAMAC was the client, with consulting by Engineering Consortium Consulting Engineers. The main contractor, Reem Capital Contracting LLC, successfully concluded the project through conversion.",
+        "img_url" :"https://cdn.discordapp.com/attachments/877261679463907368/1185871130301583380/ghalia-hero-image-mobile.jpg?ex=65912f8d&is=657eba8d&hm=950fbb7ba6ca55981f62388b8ada91a83bf93ed89a7ac38ee792cd92281bcc10&"
+    },{
+        "name":"AKOYA COURSE COMMUNITY-HOTEL",
+        "content": "Completed the Akoya Course Community-Hotel Apartment project in Dubai, UAE. DAMAC Crescent Properties L.L.C was the client, with consulting by Incorporated Consultants. The main contractor, Naresco Contracting. L.L.C, successfully concluded the project through conversion.",
+        "img_url" : "https://cdn.discordapp.com/attachments/877261679463907368/1176805828125274172/acch_2.jpg?ex=657034d5&is=655dbfd5&hm=188615fa825826675a1f1ce2db170f8a02e632911b424b61e8e7099cdf77b2e1&"
+    }, {
+        "name":"AL ZAHIA ",
+        "content": "MEP conversion for Al Zahia's 204-villa residential project in Al Yasmeen, Sharjah, UAE is now completed. Majid Al Futtaim was the client, with Engineering Consultants Group and United Engineering Construction Company LLC handling consulting and contracting.",
+        "img_url" : "https://cdn.discordapp.com/attachments/877261679463907368/1176062772048580648/az_2.jpg?ex=656d80cf&is=655b0bcf&hm=703ebab866cbab0fa7aa02e06e96191c41c7c71cc11ea57955ca16c4486c3bbf&"
+    }
+    ]
             }
 ]

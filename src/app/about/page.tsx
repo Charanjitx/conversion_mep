@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import about from "/public/photos/about.png"
 import about2 from "/public/photos/about-2.png"
+import about3 from "/public/photos/karadi.jpg"
 
 const About = () => {
     const router = useRouter()
@@ -34,9 +35,9 @@ const About = () => {
                         <Image src={about} className="object-cover min-w-full min-h-full" alt="No Imagee"/>
                     </div>
                     <div className="flex flex-col items-start justify-center p-3 mb-10 xl:mb-5 basis-1/2 xl:pl-10">
-                        <div className="my-5 text-5xl font-semibold md:my-10 lg:text-7xl">Our firm story</div>
+                        <div className="my-5 text-5xl font-semibold md:my-10 lg:text-7xl text-[#ff8731]">Our firm story</div>
                         <div className="leading-relaxed lg:leading-loose">
-                        Lorem ipsum dolor sit amet consectetur tincidunt magna habitant nunc donec est cras sodales sit nullam congue id nisi ultricies sit faucibus sagittis risus bibendum fermentum suspendisse cum turpis sapien et viverra a consectetur nunc at est tellus diam erat sed varius egestas.
+                        Founded in 2005, Conversion Electromechanical Company Ltd has grown from humble beginnings to become a trusted name in the industry. Our journey has been marked by a relentless pursuit of quality, integrity, and client satisfaction. Over the years, we have successfully executed a diverse range of projects, earning the trust of clients across various sectors.
                         </div>
                     </div>
                     <div className="flex items-center justify-center xl:hidden basis-1/2 fade-effect">
@@ -47,9 +48,9 @@ const About = () => {
                 </div>
                 <div className="items-center justify-center w-11/12 mt-16 text-white xl:flex">
                     <div className="flex flex-col items-start justify-center mb-10 basis-1/2 xl:pl-10">
-                        <div className="my-5 text-5xl font-semibold md:my-10 lg:text-7xl">How we started</div>
+                        <div className="my-5 text-5xl font-semibold md:my-10 lg:text-7xl text-[#ff8731]">How we started</div>
                         <div className="p-3 leading-relaxed lg:leading-loose">
-                        Lorem ipsum dolor sit amet consectetur tincidunt magna habitant nunc donec est cras sodales sit nullam congue id nisi ultricies sit faucibus sagittis risus bibendum fermentum suspendisse cum turpis sapien et viverra a consectetur nunc at est tellus diam erat sed varius egestas.
+                        Conversion Electromechanical Company Ltd began its journey in 2005 when a group of visionary engineers united to redefine electromechanical standards. Fueled by innovation and commitment, our founders navigated early challenges, achieved key milestones, and built a dynamic team. Today, we stand as a leading force, driven by a passion for quality and customer satisfaction.
                         </div>
                     </div>
                     <div className="flex items-center justify-center basis-1/2 fade-effect">
@@ -73,7 +74,7 @@ const About = () => {
                         <div className="flex items-center justify-between sm:justify-around basis-1/2">
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">
                                 20+
-                                <div className="mt-3 font-medium lg:text-lg">Years of experience</div>
+                                <div className="mt-3 text-lg font-medium">Years of experience</div>
                             </div>
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">
                                 200+
@@ -82,7 +83,7 @@ const About = () => {
                         </div>
                         <div className="flex items-center justify-between sm:justify-around basis-1/2">
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">
-                                200+
+                                1200+
                                 <div className="mt-3 text-lg font-medium">Members</div>
                             </div>
                             <div className="flex flex-col items-center justify-center p-5 text-5xl font-bold lg:text-7xl">

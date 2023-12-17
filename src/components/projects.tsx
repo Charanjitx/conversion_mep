@@ -11,6 +11,7 @@ import 'swiper/css/scrollbar';
 import 'swiper/css/autoplay';
 
 import links from "../../data.json";
+import links2 from "../../datagoing.json";
 import Image from "next/image";
 import { Button } from "./ui/button"
 import Link from 'next/link';
@@ -20,7 +21,7 @@ import { url } from '@/lib/url';
 const Projects = () => {
     return(<>
         <div className="flex flex-col justify-center items-center bg-[#111111] min-h-[100vh] text-white pt-20 pb-16 overflow-hidden" id="projects">
-        <div className="mb-10 text-3xl font-semibold md:text-4xl text-[#ff8731] md:font-bold">OUR PROJECTS</div>
+        <div className="mb-10 text-5xl font-semibold md:text-6xl text-[#ff8731] md:font-bold">OUR PROJECTS</div>
         { links.map((ele,idx)=>{ return(
         <div className="flex flex-col items-center justify-center" key={idx}>
             <Swiper
@@ -70,8 +71,8 @@ const Projects = () => {
         )})}
             <Link href={`${url}/projects?status=finished`}><Button className="p-5 mt-16 text-xl font-semibold text-black bg-white hover:text-white">More</Button></Link>
 
-        <div className="mt-10 mb-10 text-3xl font-semibold text-center md:text-4xl text-[#ff8731] md:font-bold">OUR ONGOING PROJECTS</div>
-        { links.map((ele,idx)=>{ return(
+        <div className="mt-10 mb-10 text-4xl font-semibold text-center md:text-5xl text-[#ff8731] md:font-bold">OUR ONGOING PROJECTS</div>
+        { links2.map((ele,idx)=>{ return(
         <div className="flex flex-col items-center justify-center" key={idx}>
             <Swiper
             effect={'coverflow'}
