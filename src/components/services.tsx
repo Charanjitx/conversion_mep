@@ -50,9 +50,7 @@ const Services = () => {
                     <div className="flex flex-col items-start justify-center p-3 mb-10 xl:mb-5 basis-1/2 xl:pl-10">
                         <div className="my-5 text-2xl sm:text-4xl font-semibold md:my-10 lg:text-6xl text-[#ff8731] sm:flex sm:items-start items-center">Technical Department</div>
                         <div className="leading-relaxed lg:leading-loose">
-                        We have an in-house Design department equipped with AutoCAD drafting stations, printing & plotting tools.
-                        To know more about our technical department, click on more button
-                        To know more about our technical department, click on more button
+                        Our Technical department, boasting AutoCAD drafting stations and advanced printing tools, forms the nexus of creative precision. With state-of-the-art technology, we transform ideas into tangible realities, fostering innovation in every detail. It's a hub where talent converges with cutting-edge tools to drive excellence in design and bring unparalleled vision to fruition
                         </div>
                         <button className="flex items-center p-3 px-5 mt-5 text-lg font-medium text-black bg-white rounded-full" onClick={()=>router.push("/services/tech-dept")} >
                         More <DoubleArrowRightIcon className="ml-4"/></button>
@@ -67,9 +65,7 @@ const Services = () => {
                     <div className="flex flex-col items-start justify-center mb-10 basis-1/2">
                         <div className="my-5 text-2xl font-semibold md:my-10 sm:text-4xl lg:text-6xl text-[#ff8731] pl-2">Maintenance Department</div>
                         <div className="p-3 leading-relaxed lg:leading-loose">
-                        The type and number of resources required are established based on activities as per the MEP construction.
-                        To know more about our maintenance department, click on more button
-                        To know more about our maintenance department, click on more button
+                        The Maintenance Department strategically determines the type and quantity of resources needed by aligning them with the specific activities outlined in the MEP construction. Our department strategically allocates manpower, tools, and materials for optimal efficiency in MEP construction, ensuring seamless operations and system longevity in the built environment.
                         </div>
                         <button className="flex items-center p-3 px-5 mt-5 text-lg font-medium text-black bg-white rounded-full" onClick={()=>router.push("/services/main-dept")} >
                         More <DoubleArrowRightIcon className="ml-4"/></button>
@@ -87,9 +83,7 @@ const Services = () => {
                     <div className="flex flex-col items-start justify-center p-3 mb-10 xl:mb-5 basis-1/2 xl:pl-10">
                         <div className="my-5 text-2xl font-semibold md:my-10 sm:text-4xl lg:text-6xl text-[#ff8731]">Contracting Department</div>
                         <div className="leading-relaxed lg:leading-loose">
-                        The basic construction programme of MEP services shall follow the Main contractor’s civil construction
-                        To know more about our contracting department, click on more button
-                        To know more about our contracting department, click on more button
+                        The Contracting Department orchestrates the MEP (Mechanical, Electrical, Plumbing) services in accordance with the foundational construction program established by the main contractor for civil construction. This collaborative approach ensures a synchronized integration of MEP elements within the broader construction framework.
                         </div>
                         <button className="flex items-center p-3 px-5 mt-5 text-lg font-medium text-black bg-white rounded-full" onClick={()=>router.push("/services/contract-dept")} >
                         More <DoubleArrowRightIcon className="ml-4"/></button>
